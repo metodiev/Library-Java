@@ -1,0 +1,5 @@
+Name of the book:The Hobbit
+Name of Author:J. Tolkien
+Genre of book:Fantasy Novel
+ISBN of book:12457889
+Date of record:2012/May/04 19:28:16
